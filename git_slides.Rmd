@@ -58,13 +58,13 @@ Available for all major operating systems:
 
 # Versioning
 
-!["git add" adds to the staging area, "git commit" bundles the changes into the history.](pictures/1-git-staging-area.svg)
+!["git add" adds to the staging area, "git commit" bundles the changes into the history. (The Carpentries, CC-BY 4.0)](pictures/1-git-staging-area.svg)
 
 ---
 
 # Multiple related changes
 
-![Several files that have been changed for the same reason can be added together to the staging area. Their changes will be bundles in one single commit.](pictures/2-git-committing-two-files.svg)
+![Several files that have been changed for the same reason can be added together to the staging area. Their changes will be bundles in one single commit. (The Carpentries, CC-BY 4.0)](pictures/2-git-committing-two-files.svg)
 
 ---
 
