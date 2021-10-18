@@ -3,7 +3,7 @@ title: "Git and GitHub/Gitlab for versioning and collaborating"
 subtitle: "LADAL Webinar Series 2021"
 author: "Stéphane Guillou"
 institute: "The University of Queensland"
-date: "2021-10-18 (updated: `r Sys.Date()`)"
+date: "2021-10-18"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -45,8 +45,13 @@ Available for all major operating systems:
 
 # Main git actions
 
-* **Set it up:**
+* **Set it up**:
   * `git init`: initialise a repository
+
+--
+
+* **Check status**:
+  * `git status`
 
 --
 
@@ -70,8 +75,11 @@ Available for all major operating systems:
 
 # Main git actions
 
-* **Set it up:**
+* **Set it up**:
   * `git init`: initialise a repository
+
+* **Check status**:
+  * `git status`
 
 * **Record changes**:
   * `git add`: add file to the staging area
@@ -106,6 +114,9 @@ Many platforms:
 
 * **Set it up:**
   * `git init`: initialise a repository
+
+* **Check status**:
+  * `git status`
 
 * **Record changes**:
   * `git add`: add file to the staging area
