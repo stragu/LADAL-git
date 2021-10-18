@@ -17,6 +17,19 @@ output:
 options(htmltools.dir.version = FALSE)
 ```
 
+# These slides
+
+.pull-left[
+Short link:
+**https://s.42l.fr/LADAL-git**
+]
+
+.pull-right[
+![QR code](pictures/QR.png)
+]
+
+---
+
 # Why Git?
 
 .pull-left[
